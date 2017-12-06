@@ -1,2 +1,4 @@
 local_vars.txt
+stable_agent_ips.txt
 notes.md
+__pycache__/*
